@@ -15,6 +15,8 @@ Lead Maintainer: [Jordan Harband](https://github.com/ljharb)
 
 The **qs** module was originally created and maintained by [TJ Holowaychuk](https://github.com/visionmedia/node-querystring).
 
+[中文文档-转载](https://www.kffhi.com/blog/2020/02/23/QS%E6%96%87%E6%A1%A3/)
+
 ## Usage
 
 ```javascript
